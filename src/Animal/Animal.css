@@ -1,0 +1,11 @@
+.animalImg {
+  width: 100px;
+  height: 100px;
+}
+
+.animalBox {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

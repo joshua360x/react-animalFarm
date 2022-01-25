@@ -1,0 +1,12 @@
+.back {
+  background-image: url('../animalDev/background.png');
+  width: 500px;
+  /* height: 100vh; */
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: flex-start;
+  height: calc(100vh - 80px);
+}
