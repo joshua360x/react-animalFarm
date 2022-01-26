@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+
+.animalImg {
+  width: 100px;
+  height: 100px;
+}
+
+.animalBox {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Lora', Courier, monospace;
+  /* position: absolute; */
+}
+
+.animalBox p {
+  background-color: whitesmoke;
+}
