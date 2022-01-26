@@ -6,7 +6,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background: cover;
-  zoom: 110%;
+  background-size: cover;
+  /* zoom: 103%; */
   position: relative;
 }
